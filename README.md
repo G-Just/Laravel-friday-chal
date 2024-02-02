@@ -37,7 +37,7 @@ Task: Make a simple student registration on the school page where the admin can 
 
 -   ![Screenshot](https://i.imgur.com/uqGgbuA.png)
 
-2.  Assuming you've already installed:
+2.  Assuming you've already installed / have knowledge of:
 
 -   [PHP](https://www.php.net/)
 -   [Laravel](https://laravel.com/)
